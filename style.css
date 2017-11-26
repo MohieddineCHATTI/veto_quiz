@@ -1,0 +1,28 @@
+
+
+#question{
+	text-align: center;
+	width: 50%;
+	margin: 0 auto;
+	padding: 40px;
+	font-size: 30px;
+	background-color: #bbb;
+	border-radius: 4%;
+}
+
+.list{
+	width: 50%;
+	margin: 0 auto;
+	padding: 0;
+}
+.choices{
+	margin-bottom: 5px;
+	width: 100%;
+	display: block;
+	border-radius: 30% 0;
+}
+.button_container{
+
+
+	
+}
